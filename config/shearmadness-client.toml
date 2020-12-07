@@ -1,0 +1,8 @@
+
+#Debugging tools
+[Debugging]
+	#Models will be regenerated every frame drawn.
+	debugModels = false
+	#Invisible Blocks will be shown in-game.
+	debugInvisibleBlocks = false
+

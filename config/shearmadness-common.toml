@@ -1,0 +1,46 @@
+
+#Shearing
+[shearing]
+	#Sets the behaviour when a sheep is sheared
+	#* RevertSheep - will change the sheep back to a normal sheep (default).
+	#* ChiselFarm  - will allow the sheep to produce chiseled blocks (warning, this currently allows duping ores).
+	#* CannotShear - You cannot shear the sheep while chiseled.
+	#
+	#Allowed Values: RevertSheep, ChiselFarm, CannotShear
+	behaviour = "RevertSheep"
+
+#Behaviours
+[behaviours]
+	#Crafting Table sheep will use their recipe to consume and produce items.
+	#Allowed Values: Unchiseled, SimpleBreeding
+	breedingBehaviour = "Unchiseled"
+
+#Integration with other mods
+[integrations]
+
+	#Integration with Chance Cubes by Turkey
+	[integrations.chancecubes]
+		#The distance a sheep can affect players
+		#Range: 0 ~ 10000
+		distance = 500
+		#Should chance cube sheep cause trouble
+		enabled = true
+
+	#Integration with Vanilla Minecraft
+	[integrations.vanilla]
+		#Chiseled TNT Sheep will be explode if exposed to active redstone.
+		allowTNT = true
+		#Chiseled redstone sheep will trigger Redstone circuits.
+		allowRedstone = true
+		#Chiseled Cactus sheep will deal damage players and destroy items.
+		allowCactus = true
+		#Crafting Table sheep will use their recipe to consume and produce items.
+		allowAutoCrafting = true
+		#Chiseled glowstone sheep will light up the area around them.
+		#WARNING: testing shows this creates a lot of chunk recalculation. I do not recommend this option.
+		allowGlowstone = false
+		#Chiseled Magma sheep will deal fire damage when touched.
+		allowFireDamage = true
+		#Chiseled bookshelf sheep will affect enchanting tables.
+		allowBookshelf = true
+
