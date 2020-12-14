@@ -1,0 +1,740 @@
+[
+  {
+    "input": "minecraft:cobblestone:1",
+    "output": [
+      "corail_recycler_ne:dust_1:9"
+    ]
+  },
+  {
+    "input": "minecraft:oak_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:spruce_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:birch_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:jungle_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:acacia_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:dark_oak_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:crimson_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:warped_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "minecraft:oak_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:spruce_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:birch_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:jungle_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:acacia_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:dark_oak_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:crimson_stem:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:warped_stem:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_oak_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_spruce_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_birch_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_jungle_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_acacia_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_dark_oak_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_crimson_stem:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_warped_stem:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_oak_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_spruce_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_birch_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_jungle_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_acacia_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_dark_oak_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_crimson_hyphae:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:stripped_warped_hyphae:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:oak_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:spruce_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:birch_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:jungle_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:acacia_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:dark_oak_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:crimson_hyphae:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:warped_hyphae:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "minecraft:tripwire_hook:1",
+    "output": [
+      "minecraft:iron_nugget:6"
+    ]
+  },
+  {
+    "input": "minecraft:diamond:1",
+    "output": [
+      "corail_recycler_ne:dust_3:9"
+    ]
+  },
+  {
+    "input": "minecraft:iron_ingot:1",
+    "output": [
+      "corail_recycler_ne:dust_2:9"
+    ]
+  },
+  {
+    "input": "minecraft:gold_ingot:1",
+    "output": [
+      "corail_recycler_ne:dust_4:9"
+    ]
+  },
+  {
+    "input": "minecraft:netherite_ingot:1",
+    "output": [
+      "corail_recycler_ne:dust_5:9"
+    ]
+  },
+  {
+    "input": "minecraft:stick:1",
+    "output": [
+      "corail_recycler_ne:dust_0:4"
+    ]
+  },
+  {
+    "input": "minecraft:leather:1",
+    "output": [
+      "corail_recycler_ne:leather_strip:9"
+    ]
+  },
+  {
+    "input": "minecraft:blackstone:1",
+    "output": [
+      "corail_recycler_ne:dust_1:9"
+    ]
+  },
+  {
+    "input": "biomesoplenty:fir_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:fir_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_fir_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_fir_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:fir_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:redwood_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:redwood_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_redwood_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_redwood_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:redwood_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:cherry_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:cherry_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_cherry_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_cherry_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:cherry_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:mahogany_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:mahogany_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_mahogany_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_mahogany_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:mahogany_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:jacaranda_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:jacaranda_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_jacaranda_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_jacaranda_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:jacaranda_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:palm_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:palm_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_palm_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_palm_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:palm_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:willow_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:willow_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_willow_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_willow_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:willow_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:dead_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:dead_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_dead_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_dead_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:dead_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:magic_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:magic_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_magic_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_magic_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:magic_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:umbran_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:umbran_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_umbran_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_umbran_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:umbran_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "biomesoplenty:hellbark_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:hellbark_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_hellbark_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:stripped_hellbark_wood:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "biomesoplenty:hellbark_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "silentgear:netherwood_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "silentgear:stripped_netherwood_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "silentgear:netherwood_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "naturesaura:ancient_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "naturesaura:ancient_bark:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "naturesaura:ancient_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "mysticalworld:charred_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "mysticalworld:charred_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "structurize:blockcactusplank:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "vampirism:bloody_spruce_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "simplefarming:fruit_log:1",
+    "output": [
+      "minecraft:stick:8"
+    ]
+  },
+  {
+    "input": "quark:vertical_oak_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "quark:vertical_spruce_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "quark:vertical_birch_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "quark:vertical_jungle_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "quark:vertical_acacia_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "quark:vertical_dark_oak_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "quark:vertical_crimson_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  },
+  {
+    "input": "quark:vertical_warped_planks:1",
+    "output": [
+      "minecraft:stick:2"
+    ]
+  }
+]

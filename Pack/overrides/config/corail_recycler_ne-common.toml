@@ -1,0 +1,7 @@
+
+[General]
+	#allow_automation [false/true|default:true]
+	allow_automation = true
+	#only_basic_recipes [false/true|default:false]
+	only_basic_recipes = false
+
