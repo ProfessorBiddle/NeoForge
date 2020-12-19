@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Neoforge",
-  "version": "0.2",
+  "version": "0.2.1",
   "author": "",
   "files": [
     {
@@ -72,6 +72,11 @@
     {
       "projectID": 341857,
       "fileID": 3057171,
+      "required": true
+    },
+    {
+      "projectID": 231275,
+      "fileID": 3062074,
       "required": true
     },
     {
@@ -760,6 +765,11 @@
       "required": true
     },
     {
+      "projectID": 231951,
+      "fileID": 3141693,
+      "required": true
+    },
+    {
       "projectID": 243121,
       "fileID": 3139878,
       "required": true
@@ -1120,23 +1130,23 @@
       "required": true
     },
     {
-      "projectID": 283644,
-      "fileID": 3092113,
-      "required": true
-    },
-    {
       "projectID": 324973,
       "fileID": 3132152,
       "required": true
     },
     {
-      "projectID": 280294,
-      "fileID": 3103648,
+      "projectID": 283644,
+      "fileID": 3092113,
       "required": true
     },
     {
       "projectID": 294815,
       "fileID": 3120907,
+      "required": true
+    },
+    {
+      "projectID": 280294,
+      "fileID": 3103648,
       "required": true
     },
     {
@@ -1160,13 +1170,13 @@
       "required": true
     },
     {
-      "projectID": 311595,
-      "fileID": 3076926,
+      "projectID": 419944,
+      "fileID": 3130906,
       "required": true
     },
     {
-      "projectID": 419944,
-      "fileID": 3130906,
+      "projectID": 311595,
+      "fileID": 3076926,
       "required": true
     },
     {
